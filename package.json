@@ -11,8 +11,7 @@
   "types": "dist/index.d.ts",
   "scripts": {
     "build": "rollup -c",
-    "postinstall": "postinstall",
-    "prepare": "postinstall"
+    "postinstall": "rollup -c"
   },
   "keywords": [],
   "author": "",
