@@ -20,7 +20,7 @@
     "react": ">=16.8.0",
     "react-dom": ">=16.8.0"
   },
-  "dependencies": {
+  "devDependencies": {
     "@babel/core": "^7.9.0",
     "@storybook/react": "^5.3.18",
     "@testing-library/jest-dom": "^5.5.0",
