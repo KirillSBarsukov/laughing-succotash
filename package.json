@@ -20,6 +20,9 @@
     "react": ">=16.8.0",
     "react-dom": ">=16.8.0"
   },
+  "dependencies": {
+    "jest": "^24.9.0"
+  },
   "devDependencies": {
     "@babel/core": "^7.9.0",
     "@storybook/react": "^5.3.18",
@@ -30,7 +33,6 @@
     "babel-loader": "^8.1.0",
     "babel-preset-react-app": "^9.1.2",
     "identity-obj-proxy": "^3.0.0",
-    "jest": "^24.9.0",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "rollup-plugin-copy": "^3.3.0",
