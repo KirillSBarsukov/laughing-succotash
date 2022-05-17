@@ -2,7 +2,7 @@
   "name": "test-hooks",
   "version": "1.0.1",
   "description": "",
-  "main": "dist/index.js",
+  "main": "dist/index.ts",
   "module": "dist/index.esm.js",
   "typings": "dist/index.d.ts",
   "files": [
@@ -20,7 +20,7 @@
     "react": ">=16.8.0",
     "react-dom": ">=16.8.0"
   },
-  "devDependencies": {
+  "dependencies": {
     "@babel/core": "^7.9.0",
     "@storybook/react": "^5.3.18",
     "@testing-library/jest-dom": "^5.5.0",
@@ -48,8 +48,5 @@
   "repository": {
     "type": "git",
     "url": "git://github.com/KirillSBarsukov/laughing-succotash.git"
-  },
-  "dependencies": {
-    "postinstall": "^0.7.4"
   }
 }
